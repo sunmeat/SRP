@@ -1,4 +1,4 @@
-# SingleResponsibilityPrinciple
+# Single Responsibility Principle
 
 Single Responsibility Principle (SRP) – принцип единственной обязанности, принцип разделения обязанностей (на каждый класс должна быть возложена одна единственная обязанность, а также класс должен иметь одну и только одну причину для изменений).
 
